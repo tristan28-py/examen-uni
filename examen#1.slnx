@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SistemaGestionBiblioteca.Entidades/SistemaGestionBiblioteca.Entidades.csproj" Id="c29fc11b-095e-4d55-9410-0ad010f56c76" />
+  <Project Path="SistemaGestionBiblioteca.Negocio/SistemaGestionBiblioteca.Negocio.csproj" Id="de850c77-3af8-4f92-8ef8-a21d1534f71b" />
+</Solution>
