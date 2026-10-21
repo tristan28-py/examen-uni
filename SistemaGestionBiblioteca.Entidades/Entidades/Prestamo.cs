@@ -7,15 +7,9 @@ namespace SistemaGestionBiblioteca.Entidades.Entidades
     public class Prestamo
     {
         public int PrestamoId { get; set; }
-
         public int UsuarioId { get; set; }
-
-        public int LibroId { get; set; }
-
         public DateTime FechaPrestamo { get; set; } = DateTime.Now;
-
-        public DateTime? FechaDevolucion { get; set; } 
-
-        public string Estado { get; set; } 
+        public DateTime? FechaDevolucion { get; set; }
+        public string Estado { get; set; } = "Prestado";
     }
 }
