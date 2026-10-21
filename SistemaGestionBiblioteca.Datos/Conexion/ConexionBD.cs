@@ -8,7 +8,7 @@ namespace SistemaGestionBiblioteca.Datos.Conexion
     public static class ConexionBD
     {
         private static string _cadenaConexion =
-            @"Server=KEITY\SQLEXPRESS;Database=BibliotecaDB;Integrated Security=True;TrustServerCertificate=True;";
+           @"Server=.\SQLEXPRESS;Database=BibliotecaDB;Integrated Security=True;TrustServerCertificate=True;";
 
         static ConexionBD()
         {
