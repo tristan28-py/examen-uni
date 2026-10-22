@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SistemaGestionBiblioteca.Entidades.Entidades
 {
-    public class Prestamo
+    public class Prestamo : Libro
     {
         public int PrestamoId { get; set; }
         public int UsuarioId { get; set; }

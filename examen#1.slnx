@@ -3,4 +3,5 @@
   <Project Path="SistemaGestionBiblioteca.Entidades/SistemaGestionBiblioteca.Entidades.csproj" Id="c29fc11b-095e-4d55-9410-0ad010f56c76" />
   <Project Path="SistemaGestionBiblioteca.Negocio/SistemaGestionBiblioteca.Negocio.csproj" Id="de850c77-3af8-4f92-8ef8-a21d1534f71b" />
   <Project Path="SistemaGestionBiblioteca.PruebasConexion/SistemaGestionBiblioteca.PruebasConexion.csproj" Id="395400b1-b3c8-4feb-8501-7a28a84a15eb" />
+  <Project Path="SistemaGestionBiblioteca.UI/SistemaGestionBiblioteca.UI.csproj" />
 </Solution>
